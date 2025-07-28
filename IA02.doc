@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<!-- Style to set the size of checkbox -->
+<style>
+	input.largerCheckbox {
+		width: 20px;
+		height: 20px;
+	}
+</style>
+
+<p align="center" style="font-size:18.5px;line-height:2;">
+	<font face="Times New Roman">
+		<b>
+			FR.IA.02 Tugas Praktik Demonstrasi
+		</b>
+	</font>
+</p>
+<br>
+<table border="1" width="100%">
+	<tr>
+		<th width="17%" rowspan="2" align="left" valign="top">Skema Sertifikasi / Klaster Assesmen</th>
+		<th width="11%">Judul Skema :</th>
+		<td width="72%">Analis Program </td>
+	</tr>
+	<tr>
+		<th>Nomor Skema :</th>
+		<td>SKM-2019-62010-02</td>
+	</tr>
+	<tr>
+		<th>Nama Asesi</th>
+		<td colspan="2">RIZKY KUSUMA PUTRA</td>
+	</tr>
+	<tr>
+		<th>TUK</th>
+		<td colspan="2">TUK Sewaktu UBSI Kampus Margonda</td>
+	</tr>
+	<tr>
+		<th>Nama Asesor</th>
+		<td colspan="2">Yudhistira, M. Kom</td>
+	</tr>
+	<tr>
+		<th>Tanggal</th>
+		<td colspan="2">2025-07-29 s/d 2025-07-29</td>
+	</tr>
+</table>
+<br>
+<table border="1" width="100%">
+	<tr>
+		<td colspan="2">
+			<center>
+				<a href="https://lsp.bsi.ac.id/LSPBSI/assets/file_ia02/File21122913004810.pdf" target="_blank">Download File Tugas Praktek Demonstrasi</a>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<center>
+				<a href="https://drive.google.com/drive/folders/1eZODPTciSVroMcIrWjV2jVwW6WyWnu_u?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1eZODPTciSVroMcIrWjV2jVwW6WyWnu_u?usp=sharing</a>
+			</center>
+		</td>
+	</tr>
+</table>
+
+</html>>
